@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/a04f2157-a7f6-4254-95d0-339c7be18195/resourceGroups/clse-prd/providers/Microsoft.Web/sites/clse-wiki",
+  "appService.deploySubpath": "."
+}
